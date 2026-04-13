@@ -17,7 +17,7 @@ a year. This project investigates what the data showed before the collapse.
 ## Key Findings
 - Ola dominated 2023 with 58% average market share vs competitors
 - Registrations grew 66% from Jan to Dec 2023 (18,355 → 30,472 units)
-- Complaints grew 8.5x in the same period — from 1,200 to 11,000/month
+- Complaints grew 9.2x in the same period — from 1,200 to 11,000/month
 - Service infrastructure failed to scale with growth — early warning signal
   of the 2024 market share collapse from 50% to 19.6%
 
